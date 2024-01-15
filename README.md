@@ -1,1 +1,1 @@
-## Hackerrank Javascript Certificate Test
+## Hackerrank Javascript Certificate Test.
